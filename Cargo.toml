@@ -1,0 +1,7 @@
+[package]
+name = "udmabuf-sealed"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+uapi = "0.2.13"
